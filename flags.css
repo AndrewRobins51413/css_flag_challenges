@@ -3,10 +3,67 @@
 /* Colombia */
 
 /* Ireland */
-
+.ireland {
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    display: flex;
+}
+.irelandleft{
+    height:400px;
+    width:200px;
+    background-color: orange;
+    
+}
+.irelandcenter{
+    height:400px;
+    width:200px;
+}
+.irelandright{
+    height:400px;
+    width:200px;
+    background-color: green;
+}
 /* France */
-
+.france{
+    height: 400px;
+    width: 600px;
+    display: flex;
+}
+.franceleft{
+    height:400px;
+    width:200px;
+    background-color: blue;
+}
+.francecenter{
+    height:400px;
+    width: 200px;
+    background-color: white;
+}
+.franceright{
+    height:400px;
+    width:200px;
+    background-color: red;
+}
 /* Benin */
+.benin{
+    height:400px;
+    width: 600px;
+    display: flex;
+}
+.benintop{
+height: 200px;
+width: 600px;
+}
+.beninbottom{
+    height:200px;
+    width:600px;
+}
+.beninleft {
+    height: 400px;
+    width: 200px;
+    display: block;
+}
 
 /* Sweden */
 
